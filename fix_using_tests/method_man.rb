@@ -3,7 +3,7 @@ require 'pry'
 player1 = "Rocky"
 player2 = "Bullwinkle"
 
-def start_game(player1, player2)
+def start_game
   puts "Hello #{player1} & #{player2}"
 end
 
