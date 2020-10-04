@@ -10,4 +10,4 @@ def engage
   puts state_log(star_date) 
 end
 
-engage
+puts engage
