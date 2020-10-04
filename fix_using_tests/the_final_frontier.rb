@@ -1,9 +1,7 @@
 require 'pry'
 
-def generate_star_date
-  (rand(100000) + 400000) / 10.0
-  binding.pry
-  puts "yo"
+def generate_star_date(num)
+  num = (rand(100000) + 400000) / 10.0
 end
 
 
