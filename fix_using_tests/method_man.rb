@@ -4,7 +4,7 @@ player1 = "Rocky"
 player2 = "Bullwinkle"
 
 def start_game(player1, player2)
-  puts "Hello Rocky and Bullwinkle"
+  puts "Hello #{player1} and #{player2}"
 end 
 
 def play_game(player1, player2)
