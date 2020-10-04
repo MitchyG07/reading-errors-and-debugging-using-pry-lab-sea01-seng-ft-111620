@@ -8,5 +8,5 @@ player2 = "Bullwinkle"
 #end 
 
 #def play_game
-  #puts "#{player2} is better than #{player1}" 
+  puts "#{player2} is better than #{player1}" 
 #end
