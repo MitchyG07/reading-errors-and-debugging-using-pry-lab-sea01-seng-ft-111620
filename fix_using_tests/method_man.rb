@@ -11,5 +11,5 @@ def play_game(player1, player2)
   "#{player2} is better than #{player1}" 
 end
 
-puts start_game
-puts play_game
+puts start_game(player1, player2)
+puts play_game(player1, player2)
