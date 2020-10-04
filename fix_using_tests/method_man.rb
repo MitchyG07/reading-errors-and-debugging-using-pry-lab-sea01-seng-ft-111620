@@ -3,10 +3,10 @@ require 'pry'
 player1 = "Rocky"
 player2 = "Bullwinkle"
 
-#def start_game
+def start_game(player1, player2)
   puts "Hello #{player1} and #{player2}"
-#end 
+end 
 
-#def play_game
+def play_game(player1, player2)
   puts "#{player2} is better than #{player1}" 
-#end
+end
