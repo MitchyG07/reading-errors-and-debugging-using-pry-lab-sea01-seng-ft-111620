@@ -5,6 +5,7 @@ player2 = "Bullwinkle"
 
 def start_game
   puts "Hello #{player1} & #{player2}"
+  binding.pry
 end
 
 def play_game
